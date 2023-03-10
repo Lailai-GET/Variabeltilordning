@@ -1,0 +1,15 @@
+C:\Users\Nikolai\Documents\GET Academy\Modul 3\Intro\Variabeltilordning\bin\Debug\net6.0\Variabeltilordning.exe
+C:\Users\Nikolai\Documents\GET Academy\Modul 3\Intro\Variabeltilordning\bin\Debug\net6.0\Variabeltilordning.deps.json
+C:\Users\Nikolai\Documents\GET Academy\Modul 3\Intro\Variabeltilordning\bin\Debug\net6.0\Variabeltilordning.runtimeconfig.json
+C:\Users\Nikolai\Documents\GET Academy\Modul 3\Intro\Variabeltilordning\bin\Debug\net6.0\Variabeltilordning.dll
+C:\Users\Nikolai\Documents\GET Academy\Modul 3\Intro\Variabeltilordning\bin\Debug\net6.0\Variabeltilordning.pdb
+C:\Users\Nikolai\Documents\GET Academy\Modul 3\Intro\Variabeltilordning\obj\Debug\net6.0\Variabeltilordning.csproj.AssemblyReference.cache
+C:\Users\Nikolai\Documents\GET Academy\Modul 3\Intro\Variabeltilordning\obj\Debug\net6.0\Variabeltilordning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolai\Documents\GET Academy\Modul 3\Intro\Variabeltilordning\obj\Debug\net6.0\Variabeltilordning.AssemblyInfoInputs.cache
+C:\Users\Nikolai\Documents\GET Academy\Modul 3\Intro\Variabeltilordning\obj\Debug\net6.0\Variabeltilordning.AssemblyInfo.cs
+C:\Users\Nikolai\Documents\GET Academy\Modul 3\Intro\Variabeltilordning\obj\Debug\net6.0\Variabeltilordning.csproj.CoreCompileInputs.cache
+C:\Users\Nikolai\Documents\GET Academy\Modul 3\Intro\Variabeltilordning\obj\Debug\net6.0\Variabeltilordning.dll
+C:\Users\Nikolai\Documents\GET Academy\Modul 3\Intro\Variabeltilordning\obj\Debug\net6.0\refint\Variabeltilordning.dll
+C:\Users\Nikolai\Documents\GET Academy\Modul 3\Intro\Variabeltilordning\obj\Debug\net6.0\Variabeltilordning.pdb
+C:\Users\Nikolai\Documents\GET Academy\Modul 3\Intro\Variabeltilordning\obj\Debug\net6.0\Variabeltilordning.genruntimeconfig.cache
+C:\Users\Nikolai\Documents\GET Academy\Modul 3\Intro\Variabeltilordning\obj\Debug\net6.0\ref\Variabeltilordning.dll
