@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Variabeltilordning": {
+      "commandName": "Project",
+      "commandLineArgs": "Vi skal telle argumenter, gitt"
+    }
+  }
+}
